@@ -1,0 +1,38 @@
+[
+    {
+       "image": "products/img01.jpeg",
+       "title": "Barbera",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    },
+    {
+       "image": "products/img01.jpeg",
+       "title": "Pinotage",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    },
+    {
+       "image": "products/img01.jpeg",
+       "title": "Shiraz",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    },
+    {
+       "image": "products/img01.jpeg",
+       "title": "Cabernet Franc",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    },
+    {
+       "image": "products/img01.jpeg",
+       "title": "Merlot",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    },
+    {
+       "image": "products/img01.jpeg",
+       "title": "Pinot Noir",
+       "description": "Lorem ipsum dolor sit amet consectetur.",
+       "price": "9,99"
+    }
+ ]

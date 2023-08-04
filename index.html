@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+    <link href='https://unpkg.com/boxicons@2.0.9/css/boxicons.min.css' rel='stylesheet'>
+
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+
+    <title>Wines API</title>
+</head>
+
+<body>
+    <h3 class="header">Expand your wine knowledge and learn about which varieties make the wine styles you love,
+        as well as those which may end being your next favourite wines to try! </h3>
+        
+        <div class="modal" id="modal">
+        <div class="modal-header">
+            <div class="title">Checkout with our wine stockist!</div>
+            <button data-close-button class="close-button">&times;</button>
+          </div>
+          <div class="modal-body">
+            <ul>
+                <li class="stockist"></li>
+            </ul>
+          </div>
+    </div>
+
+    <div id="overlay"></div>
+    
+    <div class="products"></div>
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
